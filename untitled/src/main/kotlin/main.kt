@@ -3,6 +3,8 @@ import kotlin.random.Random
 
 fun main(){
     var rnd1:Int
+
+    
     var rnd2:Int
     var k:Int=0
     println("Массив N x M")
